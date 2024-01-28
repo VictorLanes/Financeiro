@@ -1,0 +1,3 @@
+# requirements
+
+tkinter==8.6
