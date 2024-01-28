@@ -1,2 +1,23 @@
-# Financeiro
- O projeto "Controle de Finanças" é uma aplicação simples e interativa desenvolvida em Python usando a biblioteca Tkinter para criar uma interface gráfica. Seu principal objetivo é ajudar os usuários a registrar suas despesas mensais, organizando as informações de maneira clara e permitindo a exportação para um arquivo CSV para análises futuras.
+# Controle de Finanças 💰
+
+Bem-vindo ao **Controle de Finanças**, uma aplicação Python desenvolvida para simplificar o registro e análise de suas despesas mensais.
+
+## Funcionalidades 🚀
+
+- **Registro Simples:** Registre suas despesas de forma fácil e rápida.
+- **Visualização Organizada:** Navegue e visualize suas despesas por ano e mês.
+- **Exportação para CSV:** Exporte suas despesas para um arquivo CSV para análises detalhadas.
+- **Interface Amigável:** Uma interface gráfica intuitiva para facilitar o uso.
+
+## Como Usar 📌
+
+1. **Execute o Aplicativo:** Abra o aplicativo e escolha o ano e mês desejados.
+2. **Registre Suas Despesas:** Preencha os detalhes da sua despesa e clique em "Adicionar Despesa".
+3. **Visualize e Analise:** Navegue entre os meses para ver suas despesas passadas e exporte para análises mais profundas.
+
+## Executando o Projeto 🚀
+
+Certifique-se de ter Python instalado e execute o seguinte comando para instalar as dependências:
+
+```bash
+pip install -r requirements.txt
