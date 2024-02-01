@@ -20,6 +20,5 @@ Bem-vindo ao **Controle de Finanças**, uma aplicação Python desenvolvida para
 Certifique-se de ter Python instalado e execute o seguinte comando para instalar as dependências:
 
 ```bash
-pip install -r requirements.txt
 pip install openpyxl
 
