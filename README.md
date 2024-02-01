@@ -21,3 +21,5 @@ Certifique-se de ter Python instalado e execute o seguinte comando para instalar
 
 ```bash
 pip install -r requirements.txt
+pip install openpyxl
+
