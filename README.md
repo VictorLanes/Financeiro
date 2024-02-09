@@ -21,5 +21,5 @@ Certifique-se de ter Python instalado e execute o seguinte comando para instalar
 
 ```bash
 pip install openpyxl
-pip install pandas
+
 
